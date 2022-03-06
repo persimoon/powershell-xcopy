@@ -25,6 +25,11 @@ Xcopy_with_HistoryManagement.ps1
 * 実行環境に合わせたパラメータ設定方法を行ってください。
 * 当スクリプトはVisual Studio Code上で作成しました。実行環境に合わせたパラメータ設定を行うために、ps1ファイルを編集して保存する場合は、文字エンコーディングを「utf8 With BOM」としてください。エンコードが異なると、パス名に含まれる日本語が文字化けしたり、うまく動作しなかったりするようです。
 
+## 当スクリプトに関係する外部サイト
+
+* Docs Windows Server> Windows のコマンド> xcopy  
+  https://docs.microsoft.com/ja-jp/windows-server/administration/windows-commands/xcopy
+
 
 ## 実行環境に合わせたパラメータ設定方法
 
