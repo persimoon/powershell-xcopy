@@ -1,6 +1,6 @@
-# powershell-xcopy
+# Xcopy_with_HistoryManagement
 
-
+Xcopy_with_HistoryManagement.ps1
 
 ## 当スクリプトの目的
 
